@@ -33,7 +33,7 @@ Script to fetch system and theme settings for screen-shots in most mainstream.
 install -d -m 755 %{buildroot}%{_bindir}
 # alias , "sfetch" is more handy to use for newbies
 # and not only.Sflo
-install -m 755 screenfetch %{buildroot}%{_bindir}/
+install -m 755 screenfetch%{buildroot}%{_bindir}/
 pushd %{buildroot}%{_bindir}
 ln -s screenfetch sfetch
 popd

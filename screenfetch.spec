@@ -24,7 +24,7 @@ screenshot upon displaying info, and even customizing the screenshot
 command! This script is very easy to add to and can be easily extended.
 
 %prep
-%setup -q -n %{_name}-%{version}
+%setup -q -n %{name}-%{version}
 
 %build
 

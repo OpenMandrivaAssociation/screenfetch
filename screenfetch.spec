@@ -1,13 +1,13 @@
-%define	name		screenFetch
+%define name screenFetch
 
-Name:		screenfetch
-Version:	3.8.0
-Release:	1
-Summary:	Screenfetch is a "Bash Screenshot Information Tool"
-License:	GPLv3
-Group:		Monitoring
-Url:		https://github.com/KittyKatt/screenFetch
-Source:		https://github.com/KittyKatt/screenFetch/archive/v%{version}/%{name}-%{version}.tar.gz
+Name: screenfetch
+Version: 3.8.0
+Release: 1
+Summary: Screenfetch is a "Bash Screenshot Information Tool"
+License: GPLv3
+Group: Monitoring
+Url: https://github.com/KittyKatt/screenFetch
+Source: https://github.com/KittyKatt/screenFetch/archive/v%{version}/%{name}-%{version}.tar.gz
 
 BuildArch:	noarch
 

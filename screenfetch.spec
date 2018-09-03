@@ -25,7 +25,7 @@ Script to fetch system and theme settings for screen-shots in most mainstream.
 %prep
 %setup -qn  %{oname}-%{version}
 # clean the shell before launch it.Sflo
-sed -i '28iclear' screenfetch
+# sed -i '28iclear' screenfetch
 
 %build
 

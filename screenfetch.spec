@@ -2,7 +2,7 @@
 
 Name:		screenfetch
 Version:	3.8.0
-Release:	%mkrel 1
+Release:	2
 Summary:	Screenfetch is a "Bash Screenshot Information Tool"
 License:	GPLv3
 Group:		Monitoring

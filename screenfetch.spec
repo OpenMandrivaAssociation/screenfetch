@@ -1,7 +1,7 @@
 %define	_name		screenFetch
 
 Name:		screenfetch
-Version:	3.9.0
+Version:	3.9.1
 Release:	1
 Summary:	Screenfetch is a "Bash Screenshot Information Tool"
 License:	GPLv3
